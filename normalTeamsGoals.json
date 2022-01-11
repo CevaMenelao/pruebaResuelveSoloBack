@@ -1,0 +1,46 @@
+{
+   [
+      {
+        team_name : "azul",
+        goals :  [
+           {
+              level : "A",
+              goals_month : 5
+           },
+           {
+              level : "B",
+              goals_month : 10
+           },
+           {
+              level : "C",
+              goals_month : 15
+           },
+           {
+              level : "EL Cuauh",
+              goals_month : 20
+           }
+        ]
+      },
+      {
+        team_name : "rojo",
+        goals :  [
+           {
+              level : "A",
+              goals_month : 5
+           },
+           {
+              level : "B",
+              goals_month : 10
+           },
+           {
+              level : "C",
+              goals_month : 15
+           },
+           {
+              level : "EL Cuauh",
+              goals_month : 20
+           }
+        ]
+      }
+   ]
+}

@@ -1,0 +1,46 @@
+{
+    "teams_goals" : [
+      {
+        "team_name" : "rojo",
+        "goals" :  [
+           {
+              "level" : "A",
+              "goals_month" : 30
+           },
+           {
+              "level" : "B",
+              "goals_month" : 70
+           },
+           {
+              "level" : "C",
+              "goals_month" : 110
+           },
+           {
+              "level" : "EL Cuauh",
+              "goals_month" : 160
+           }
+        ]
+      },
+      {
+        "team_name" : "azul",
+        "goals" :  [
+           {
+              "level" : "A",
+              "goals_month" : 100
+           },
+           {
+              "level" : "B",
+              "goals_month" : 200
+           },
+           {
+              "level" : "C",
+              "goals_month" : 300
+           },
+           {
+              "level" : "EL Cuauh",
+              "goals_month" : 400
+           }
+        ]
+      }
+   ]
+}
